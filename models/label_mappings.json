@@ -1,0 +1,56 @@
+{
+  "bacteria_name": {
+    "Acinetobacter baumannii": 0,
+    "Enterococcus faecalis": 1,
+    "Escherichia coli": 2,
+    "Klebsiella pneumoniae": 3,
+    "Neisseria gonorrhoeae": 4,
+    "Pseudomonas aeruginosa": 5,
+    "Salmonella typhi": 6,
+    "Staphylococcus aureus": 7,
+    "Streptococcus pneumoniae": 8
+  },
+  "antibiotic": {
+    "Amikacin": 0,
+    "Ampicillin": 1,
+    "Azithromycin": 2,
+    "Cefixime": 3,
+    "Ceftazidime": 4,
+    "Ceftriaxone": 5,
+    "Chloramphenicol": 6,
+    "Ciprofloxacin": 7,
+    "Clindamycin": 8,
+    "Colistin": 9,
+    "Erythromycin": 10,
+    "Gentamicin": 11,
+    "Imipenem": 12,
+    "Linezolid": 13,
+    "Meropenem": 14,
+    "Nitrofurantoin": 15,
+    "Oxacillin": 16,
+    "Penicillin": 17,
+    "Piperacillin": 18,
+    "Spectinomycin": 19,
+    "Tetracycline": 20,
+    "Trimethoprim": 21,
+    "Vancomycin": 22
+  },
+  "country": {
+    "Burkina Faso": 0,
+    "Bénin": 1,
+    "Côte d'Ivoire": 2,
+    "Ghana": 3,
+    "Mali": 4,
+    "Nigeria": 5,
+    "Sénégal": 6,
+    "Togo": 7
+  },
+  "specimen_site": {
+    "Expectoration": 0,
+    "LCR": 1,
+    "Plaie": 2,
+    "Sang": 3,
+    "Selles": 4,
+    "Urine": 5
+  }
+}
