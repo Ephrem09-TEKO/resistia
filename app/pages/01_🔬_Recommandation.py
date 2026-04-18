@@ -246,7 +246,7 @@ if analyser:
             return ""
 
         st.dataframe(
-            df_display.style.applymap(colorize, subset=["Zone"]),
+            df_display.style.map(colorize, subset=["Zone"]),
             use_container_width=True,
             hide_index=True,
             height=300
